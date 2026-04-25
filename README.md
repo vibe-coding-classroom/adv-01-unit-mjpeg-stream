@@ -1,5 +1,3 @@
-Viewed adv-01-unit-mjpeg-stream.html:1-412
-
 針對 **`adv-01-unit-mjpeg-stream` (MJPEG 編碼與 HTTP Boundary 原理)** 單元，這是一個讓學生從「調包俠 (Library User)」進化為「協議理解者 (Protocol Implementer)」的關鍵進階課程。
 
 以下是在 **GitHub Classroom** 部署其作業 (Assignments) 的具體建議：
