@@ -1,0 +1,3 @@
+Timestamp,Resolution,FPS,TCP_MSS,Tearing_Detected
+2026-04-25 10:00:00,VGA,10,1460,No
+2026-04-25 10:01:00,VGA,15,1460,Yes
